@@ -1,0 +1,10 @@
+<resources>
+    <color name="app_bg">#0A0F16</color>
+    <color name="surface">#111A24</color>
+    <color name="surface_alt">#172331</color>
+    <color name="text_primary">#F4F7FB</color>
+    <color name="text_secondary">#AAB8C8</color>
+    <color name="accent">#62D7B2</color>
+    <color name="accent_dark">#0B4A3B</color>
+    <color name="danger">#FF8A80</color>
+</resources>
